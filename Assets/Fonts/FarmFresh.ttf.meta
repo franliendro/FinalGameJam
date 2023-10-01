@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f9acee43bc632f74fa70ba38ecd726bb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FarmFresh
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 29f2cc617f9d94a43825c4ffd05aaaab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
